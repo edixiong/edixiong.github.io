@@ -1,0 +1,37 @@
+cv:
+  name: Zheyang Xiong
+  label: PhD Student
+  email: zheyang@cs.wisc.edu
+  location: Madison, WI
+  image: ""
+  summary: PhD student in Computer Science at the University of Wisconsin-Madison, advised by Dimitris Papailiopoulos.
+
+  social_networks:
+    - network: GitHub
+      username: edixiong
+
+  sections:
+    Education:
+      - institution: University of Wisconsin-Madison
+        location: Madison, WI
+        url: https://www.cs.wisc.edu/
+        area: Computer Science
+        studyType: PhD
+        start_date: 2023
+        end_date: present
+        highlights:
+          - "Advisor: Dimitris Papailiopoulos"
+
+      - institution: Rice University
+        location: Houston, TX
+        url: https://www.rice.edu/
+        area: Mathematics (B.S.), Computer Science (B.A.)
+        studyType: Bachelor's
+        start_date: 2019
+        end_date: 2023
+
+    Experience:
+      - company: Microsoft Research AI Frontiers Lab
+        position: Part-time Student Researcher
+        start_date: 2025-05
+        end_date: present
